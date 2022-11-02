@@ -1,5 +1,5 @@
-[![MasterHead](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif | width=300 | height=200)](https://aditya10cr7.io)
-
+<!-- [![MasterHead](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif | width=300 | height=200)](https://aditya10cr7.io) -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  width="1200" height="600">
 <h1 align="center">Hi 👋, I'm Aditya Pandiarajan</h1>
 <h3 align="center">I'm a passionate FrontEnd Developer</h3>
 <br>
