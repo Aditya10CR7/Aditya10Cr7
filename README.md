@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya10cr7&label=Profile%20views&color=0e75b6&style=flat" alt="aditya10cr7" /> </p>
 
-- 🔭 I’m currently working on **Weather Forecast**
+- 🔭 I’m currently working on **Weather Forecast Project**
 
 - 🌱 I’m currently learning **NodeJS, React**
 
