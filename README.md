@@ -38,5 +38,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya10cr7&show_icons=true&locale=en&layout=compact" alt="aditya10cr7" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya10cr7&show_icons=true&locale=en" alt="aditya10cr7" /></p>
-[![Stats](https://leetcode.card.workers.dev/adityapandiarajan7?theme=auto&font=baloo&extension=activity)](https://leetcode.com/adityapandiarajan7/)
+[![Stats](https://leetcode.card.workers.dev/adityapandiarajan7?theme=auto&font=baloo&extension=activity) ](https://leetcode.com/adityapandiarajan7/)
 
