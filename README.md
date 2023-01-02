@@ -38,4 +38,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya10cr7&show_icons=true&locale=en&layout=compact" alt="aditya10cr7" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya10cr7&show_icons=true&locale=en" alt="aditya10cr7" /></p>
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/adityapandiarajan7=KnlnKS)](https://github.com/KnlnKS/leetcode-stats)
+[![adityapandiarajan7's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=adityapandiarajan7&theme=Dark)](https://github.com/Aditya10CR7/leetcode-stats)
